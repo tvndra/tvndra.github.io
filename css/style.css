@@ -61,7 +61,7 @@
 }
 
 .links li {
-  background-color: black;
+  background-color: white;
   cursor: pointer;
   padding: 5px;
   display: inline;
@@ -75,7 +75,7 @@
 .links a {
     letter-spacing: 2px;
     text-decoration: none;
-    color: white;
+    color: black;
     transition: 0.2s;
 }
 
@@ -88,6 +88,7 @@
   text-align: center;
   opacity: 25%;
   padding: 10px;
+  color: white;
 }
 
 .bottom {

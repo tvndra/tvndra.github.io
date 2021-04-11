@@ -61,7 +61,7 @@
 }
 
 .links li {
-  background-color: #F5F5F5;
+  border: 2px solid white;
   cursor: pointer;
   padding: 5px;
   display: inline;
@@ -75,7 +75,7 @@
 .links a {
     letter-spacing: 2px;
     text-decoration: none;
-    color: black;
+    color: white;
     transition: 0.2s;
 }
 

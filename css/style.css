@@ -61,7 +61,7 @@
 }
 
 .links li {
-  border: 2px solid white;
+  border: 1px solid white;
   cursor: pointer;
   padding: 5px;
   display: inline;
